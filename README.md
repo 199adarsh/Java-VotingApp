@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗳️ Java VotingApp — Next-Gen E-Voting Platform
+# 🗳️ Java VotingApp — Next-Gen E-Voting 
 
 *A cloud-native, secure, high-performance Online Voting & Election Management System built with Java EE, Servlets, JSP, MySQL, and Docker.*
 
